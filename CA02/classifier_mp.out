@@ -1,0 +1,19 @@
+Rank: 1, Iteration: 500, Loss: 0.3899082839488983, Accuracy: 76.43999481201172%
+Rank: 1, Iteration: 1000, Loss: 0.5284249782562256, Accuracy: 82.05999755859375%
+Rank: 1, Iteration: 1500, Loss: 0.40279752016067505, Accuracy: 84.36000061035156%
+Rank: 1, Iteration: 2000, Loss: 0.15466247498989105, Accuracy: 85.29999542236328%
+Rank: 1, Iteration: 2500, Loss: 0.2418394833803177, Accuracy: 86.5199966430664%
+Rank: 1, Iteration: 3000, Loss: 0.41796156764030457, Accuracy: 86.77999877929688%
+Rank: 1, Iteration: 3500, Loss: 0.27258676290512085, Accuracy: 87.9000015258789%
+Rank: 1, Training Time: 48.3502140045166
+Rank: 1, Max Memory Allocated: 32.9453125 MB
+Rank: 0, Iteration: 500, Loss: 0.4670366644859314, Accuracy: 76.75999450683594%
+Rank: 0, Iteration: 1000, Loss: 0.6165669560432434, Accuracy: 81.77999877929688%
+Rank: 0, Iteration: 1500, Loss: 0.7680372595787048, Accuracy: 83.47999572753906%
+Rank: 0, Iteration: 2000, Loss: 0.40340209007263184, Accuracy: 84.75999450683594%
+Rank: 0, Iteration: 2500, Loss: 0.20706748962402344, Accuracy: 86.23999786376953%
+Rank: 0, Iteration: 3000, Loss: 0.38171330094337463, Accuracy: 85.5999984741211%
+Rank: 0, Iteration: 3500, Loss: 0.4295659065246582, Accuracy: 87.07999420166016%
+Rank: 0, Training Time: 48.34992218017578
+Rank: 0, Max Memory Allocated: 32.9453125 MB
+Total time: 50.82787370681763

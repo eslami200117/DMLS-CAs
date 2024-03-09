@@ -1,0 +1,25 @@
+[GPU1] Epoch 0 | Batchsize: 32 | Steps: 938
+[GPU0] Epoch 0 | Batchsize: 32 | Steps: 938
+[GPU0] Evaluation Loss: 0.4954 | Accuracy: 81.90% | Iterations: 157
+[GPU0] Epoch 1 | Batchsize: 32 | Steps: 938
+[GPU1] Evaluation Loss: 0.4779 | Accuracy: 82.24% | Iterations: 157
+[GPU1] Epoch 1 | Batchsize: 32 | Steps: 938
+[GPU0] Evaluation Loss: 0.3930 | Accuracy: 85.46% | Iterations: 157
+[GPU1] Evaluation Loss: 0.3793 | Accuracy: 86.26% | Iterations: 157
+[GPU0] Epoch 2 | Batchsize: 32 | Steps: 938
+[GPU1] Epoch 2 | Batchsize: 32 | Steps: 938
+[GPU1] Evaluation Loss: 0.3630 | Accuracy: 86.88% | Iterations: 157
+[GPU0] Evaluation Loss: 0.3828 | Accuracy: 85.58% | Iterations: 157
+[GPU1] Epoch 3 | Batchsize: 32 | Steps: 938
+[GPU0] Epoch 3 | Batchsize: 32 | Steps: 938
+[GPU0] Evaluation Loss: 0.3614 | Accuracy: 86.54% | Iterations: 157
+[GPU0] Traning Time: 13.494524717330933
+[GPU1] Evaluation Loss: 0.3537 | Accuracy: 86.76% | Iterations: 157
+[GPU1] Traning Time: 13.500003814697266
+Rank: 0, Max Memory Allocated: 19.67 MB
+[GPU0] Total time: 14.53
+Rank: 1, Max Memory Allocated: 19.67 MB
+[GPU1] Total time: 14.54
+ARGS: () KWARGS: {}
+2: group_world_size: 1
+group_world_size: 1 role_infos: [<torch.distributed.elastic.agent.server.api._RoleInstanceInfo object at 0x7f4cb1c23280>]

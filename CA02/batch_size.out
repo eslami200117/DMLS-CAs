@@ -1,0 +1,40 @@
+batch size is: 16
+[GPU0] Evaluation Loss: 0.3214 | Accuracy: 88.14% 
+[GPU1] Evaluation Loss: 0.3267 | Accuracy: 87.96% 
+[GPU0] Max Memory Allocated: 18.93 MB
+[GPU0] Total time: 69.61
+[GPU1] Max Memory Allocated: 18.93 MB
+[GPU1] Total time: 69.61
+ARGS: () KWARGS: {}
+2: group_world_size: 1
+group_world_size: 1 role_infos: [<torch.distributed.elastic.agent.server.api._RoleInstanceInfo object at 0x7f443d962a00>]
+batch size is: 32
+[GPU1] Evaluation Loss: 0.3187 | Accuracy: 88.18% 
+[GPU0] Evaluation Loss: 0.3334 | Accuracy: 87.60% 
+[GPU0] Max Memory Allocated: 19.67 MB
+[GPU0] Total time: 15.07
+[GPU1] Max Memory Allocated: 19.67 MB
+[GPU1] Total time: 15.09
+ARGS: () KWARGS: {}
+2: group_world_size: 1
+group_world_size: 1 role_infos: [<torch.distributed.elastic.agent.server.api._RoleInstanceInfo object at 0x7f28d7054b00>]
+batch size is: 64
+[GPU0] Evaluation Loss: 0.3678 | Accuracy: 86.98% 
+[GPU1] Evaluation Loss: 0.3576 | Accuracy: 86.94% 
+[GPU0] Max Memory Allocated: 21.38 MB
+[GPU0] Total time: 12.49
+[GPU1] Max Memory Allocated: 21.38 MB
+[GPU1] Total time: 12.50
+ARGS: () KWARGS: {}
+2: group_world_size: 1
+group_world_size: 1 role_infos: [<torch.distributed.elastic.agent.server.api._RoleInstanceInfo object at 0x7fa088370040>]
+batch size is: 128
+[GPU0] Evaluation Loss: 0.4342 | Accuracy: 84.46% 
+[GPU1] Evaluation Loss: 0.4197 | Accuracy: 84.70% 
+[GPU0] Max Memory Allocated: 24.75 MB
+[GPU0] Total time: 12.02
+[GPU1] Max Memory Allocated: 24.75 MB
+[GPU1] Total time: 12.02
+ARGS: () KWARGS: {}
+2: group_world_size: 1
+group_world_size: 1 role_infos: [<torch.distributed.elastic.agent.server.api._RoleInstanceInfo object at 0x7f985d05a740>]
